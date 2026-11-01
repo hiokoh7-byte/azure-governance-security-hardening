@@ -8,7 +8,7 @@ Implementing Azure governance and security controls with Role-Based Access Contr
 
 ## 🎥 Watch Me Live
 
-[Watch me build this lab live →](PASTE_YOUR_LINK_HERE)
+[Watch me build this lab live →](https://www.loom.com/share/be3148659a964853af3563bc76e60e18)
 
 ## Overview
 
@@ -35,6 +35,8 @@ The lab maps these controls to the **NIST Cybersecurity Framework** functions:
 **Identify → Protect → Detect → Respond → Recover**
 
 By the end of the lab, a Junior Developer has view-only access, expensive VM configurations are blocked by policy, and a budget is configured to alert before cloud spending gets out of control.
+
+![Diagram showing three layered governance controls, RBAC, Azure Policy, and Cost Management, scoped to one resource group, mapped to the five NIST Cybersecurity Framework functions](./screenshots/governance-diagram.png)
 
 ## Lab Variables
 
@@ -357,4 +359,3 @@ No. An Azure budget is a **monitoring and alerting tool**. It does not automatic
 
 - **Lab 02** — Building a Secure 2-Tier Web Application
 - **Lab 03** — Modernizing to PaaS & Securing Secrets
-- **Lab 05** — Implementing Governance and Security Hardening
